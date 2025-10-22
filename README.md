@@ -1,8 +1,7 @@
 # AgenticCache
 This is a Cache file escpecially for Agentic approaches .
 
-# agent_core
-
+# agentic_cache
 A Python package for advanced memory management and task queuing, designed for agentic systems, AI development, and high-concurrency applications. It includes hierarchical memory, caching mechanisms, and a priority-based task queue to handle complex, stateful workflows efficiently.
 
 ## Features
